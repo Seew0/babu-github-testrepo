@@ -1,0 +1,4 @@
+The main difference between hub and a switch is that the switch let us send the packages to the specific MAC address but the hub doesn't . 
+
+Ques : Why I chose BTech ?
+Ans : If I compare this course to other weak bachelor courses , here I get to learn some extra problem solving skills . This is the main reason that I chose BTech . nothing else .
